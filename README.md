@@ -44,7 +44,14 @@ The dataset consists of labeled images of plant leaves, including both healthy a
 
 ## 🖼️ Output
 
-(Add screenshots of predictions and accuracy graphs here)
+<img width="860" height="599" alt="Screenshot 2026-02-20 150156" src="https://github.com/user-attachments/assets/5f142809-8d29-4d57-ab98-427a734196e7" />
+<img width="514" height="534" alt="Screenshot 2026-02-20 150114" src="https://github.com/user-attachments/assets/7dc40500-fd9b-4a14-897e-faa7ae970b11" />
+<img width="982" height="672" alt="Screenshot 2026-02-20 150008" src="https://github.com/user-attachments/assets/7673ae6d-6e8d-46dc-91b3-0504626bea27" />
+<img width="1397" height="151" alt="Screenshot 2026-02-20 145917" src="https://github.com/user-attachments/assets/ebdee2f4-2cda-40d3-b297-4a12cabdb1d3" />
+<img width="1254" height="412" alt="Screenshot 2026-02-20 145828" src="https://github.com/user-attachments/assets/3b7d2a54-f84a-445b-bca3-cd0f7557b3b0" />
+<img width="949" height="607" alt="Screenshot 2026-02-20 145706" src="https://github.com/user-attachments/assets/02d03376-546f-410f-8d5a-d48a876c6157" />
+<img width="1255" height="386" alt="Screenshot 2026-02-20 145314" src="https://github.com/user-attachments/assets/75ad2fa9-4d47-4f75-9ead-69a9d98baada" />
+
 
 ---
 
