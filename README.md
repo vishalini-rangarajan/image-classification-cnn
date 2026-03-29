@@ -95,8 +95,6 @@ Manual detection of plant diseases:
 
 ## 👩‍💻 Author
 
-**Vishalini Rangarajan**  
+**Vishalini Rangarajan**
 B.Tech AI & Data Science Student  
 Machine Learning Enthusiast  
-```bash
-pip install -r requirements.txt
