@@ -1,77 +1,66 @@
-# 🌱 Plant Disease Detection using CNN
+🌱 Plant Disease Detection using CNN
+📌 Project Overview
 
-## 📌 Project Overview
+This project uses Deep Learning (Convolutional Neural Networks - CNN) to automatically detect plant diseases from leaf images. The goal is to help farmers and agricultural experts identify diseases early and take preventive actions to improve crop yield.
 
-This project uses Deep Learning techniques (Convolutional Neural Networks - CNN) to identify plant diseases from leaf images. It helps in early detection and supports farmers in improving crop yield.
+🎯 Problem Statement
 
----
+Manual detection of plant diseases:
 
-## 🎯 Problem Statement
+Requires expert knowledge
+Time-consuming
+Not scalable
 
-Identifying plant diseases manually is time-consuming and requires expertise. This project provides an AI-based solution to automatically classify plant diseases from images.
+👉 This project provides an AI-powered automated solution to classify plant diseases accurately using image data.
 
----
+⚙️ Technologies Used
+Python
+TensorFlow / Keras
+NumPy
+Matplotlib
+Jupyter Notebook
+📊 Dataset
+Contains labeled images of healthy and diseased plant leaves
+Used for training and testing the CNN model
+Includes multiple plant disease categories
+🧠 Model Architecture
+Convolutional Neural Network (CNN)
+Multiple Conv2D + MaxPooling layers
+Flatten + Dense layers
+Activation: ReLU, Softmax
 
-## ⚙️ Technologies Used
+👉 CNN is used because it is highly effective in image feature extraction and pattern recognition
 
-* Python
-* TensorFlow / Keras
-* NumPy
-* Matplotlib
-* Jupyter Notebook
+📈 Results
+✅ Accuracy: **86.48%**
+✅ Loss: **0.3983**
+✅ Successfully classifies plant diseases from leaf images
+✅ Model generalizes well on test data
+🖼️ Sample Outputs
+  <img width="514" height="534" alt="Screenshot 2026-02-20 150114" src="https://github.com/user-attachments/assets/7fe01193-6cf4-486c-8767-9b3f22d7c63d" />
+<img width="1397" height="151" alt="Screenshot 2026-02-20 145917" src="https://github.com/user-attachments/assets/c283278d-5c4a-491c-b26b-e21481a54dd5" />
+<img width="1254" height="412" alt="Screenshot 2026-02-20 145828" src="https://github.com/user-attachments/assets/adc87ad4-40f4-4d20-bc8e-b4acdc204264" />
+<img width="860" height="599" alt="Screenshot 2026-02-20 150156" src="https://github.com/user-attachments/assets/35fe32a4-f88f-4991-89cb-50d50744af3f" />
 
----
+▶️ How to Run the Project
+Clone the repository
 
-## 📊 Dataset
+Install required libraries:
 
-The dataset consists of labeled images of plant leaves, including both healthy and diseased samples used to train the model.
+pip install -r requirements.txt
+Open Jupyter Notebook
+Run all cells step by step
+🚀 Future Improvements
+🔹 Increase dataset size for better accuracy
+🔹 Deploy as a web/mobile app
+🔹 Add real-time image detection using camera
+🔹 Integrate with farmer support systems
+💡 Real-World Applications
+Smart agriculture systems
+Farmer assistance apps
+Crop monitoring tools
+👩‍💻 Author
 
----
-
-## 🧠 Model Used
-
-* Convolutional Neural Network (CNN)
-* Image classification model
-
----
-
-## 📈 Results
-
-* Achieved good accuracy in plant disease classification
-* Model can predict disease from leaf images effectively
-
----
-
-## 🖼️ Output
-
-<img width="860" height="599" alt="Screenshot 2026-02-20 150156" src="https://github.com/user-attachments/assets/5f142809-8d29-4d57-ab98-427a734196e7" />
-<img width="514" height="534" alt="Screenshot 2026-02-20 150114" src="https://github.com/user-attachments/assets/7dc40500-fd9b-4a14-897e-faa7ae970b11" />
-<img width="982" height="672" alt="Screenshot 2026-02-20 150008" src="https://github.com/user-attachments/assets/7673ae6d-6e8d-46dc-91b3-0504626bea27" />
-<img width="1397" height="151" alt="Screenshot 2026-02-20 145917" src="https://github.com/user-attachments/assets/ebdee2f4-2cda-40d3-b297-4a12cabdb1d3" />
-<img width="1254" height="412" alt="Screenshot 2026-02-20 145828" src="https://github.com/user-attachments/assets/3b7d2a54-f84a-445b-bca3-cd0f7557b3b0" />
-<img width="949" height="607" alt="Screenshot 2026-02-20 145706" src="https://github.com/user-attachments/assets/02d03376-546f-410f-8d5a-d48a876c6157" />
-<img width="1255" height="386" alt="Screenshot 2026-02-20 145314" src="https://github.com/user-attachments/assets/75ad2fa9-4d47-4f75-9ead-69a9d98baada" />
-
-
----
-
-## ▶️ How to Run the Project
-
-1. Install required libraries using pip
-2. Open the Jupyter Notebook
-3. Run all cells step by step
-
----
-
-## 🚀 Future Improvements
-
-* Increase dataset size for better accuracy
-* Deploy as a web or mobile application
-* Add more plant disease categories
-
----
-
-## 👩‍💻 Author
-
-**Vishalini Rangarajan**
-B.Tech Artificial Intelligence and Data Science Student
+Vishalini Rangarajan
+B.Tech AI & Data Science Student
+Machine Learning Enthusiast
