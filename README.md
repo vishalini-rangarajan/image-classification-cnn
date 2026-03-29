@@ -67,10 +67,36 @@ Manual detection of plant diseases:
 
 ---
 
-## ▶️ How to Run the Project
+## ⭐ Key Highlights
 
-1. Clone the repository  
+- Achieved **86.48% accuracy**
+- Built using CNN for image classification
+- Detects multiple plant diseases
+- Useful for real-world agriculture applications
 
-2. Install required libraries:
+---
+
+## 🚀 Future Improvements
+
+- 🔹 Increase dataset size for better accuracy  
+- 🔹 Deploy as a web/mobile app  
+- 🔹 Add real-time image detection using camera  
+- 🔹 Integrate with farmer support systems
+
+---
+
+## 💡 Real-World Applications
+
+- Smart agriculture systems  
+- Farmer assistance apps  
+- Crop monitoring tools
+
+---
+
+## 👩‍💻 Author
+
+**Vishalini Rangarajan**  
+B.Tech AI & Data Science Student  
+Machine Learning Enthusiast  
 ```bash
 pip install -r requirements.txt
